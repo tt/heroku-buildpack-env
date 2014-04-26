@@ -1,3 +1,3 @@
 ## Heroku Buildpack Env
 
-Displays the environment of a build process.
+Display the environment of a Heroku build process.
