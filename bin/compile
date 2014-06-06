@@ -4,3 +4,6 @@
 echo "-----> Displaying compile environment."
 env
 echo "-----> Done."
+
+# abort compilation
+exit 1
